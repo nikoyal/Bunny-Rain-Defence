@@ -1,0 +1,9 @@
+lastUpgrade=00942
+proj.pluginVersion=0.9.42
+proj.AppId=705632809877
+and.BundleId=com.nikoyal.bunnyraindef
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e705632809877%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.nikoyal.bunnyraindef%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Good+Start+--%3e%0d%0a++%3cstring+name%3d%22achievement_good_start%22+translatable%3d%22false%22%3eCgkIlef418QUEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Getting+Better+--%3e%0d%0a++%3cstring+name%3d%22achievement_getting_better%22+translatable%3d%22false%22%3eCgkIlef418QUEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Going+Pro+--%3e%0d%0a++%3cstring+name%3d%22achievement_going_pro%22+translatable%3d%22false%22%3eCgkIlef418QUEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Beyond+Pro+--%3e%0d%0a++%3cstring+name%3d%22achievement_beyond_pro%22+translatable%3d%22false%22%3eCgkIlef418QUEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Godlike+--%3e%0d%0a++%3cstring+name%3d%22achievement_godlike%22+translatable%3d%22false%22%3eCgkIlef418QUEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true
