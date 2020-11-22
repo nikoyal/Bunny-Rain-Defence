@@ -1,6 +1,4 @@
 # Bunny-Rain-Defence
-2D Game made in Unity
-
 Game Description: 
 
 Protect the bunny from the rain by tilting the phone to control the umbrella!! 
