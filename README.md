@@ -3,8 +3,10 @@
 2D Game made in Unity
 
 Game Description: 
-Protect the bunny from the rain by tilting the phone to controll the umbrella!!
-Cant get far? Maybe buy some upgrades!
+
+Protect the bunny from the rain by tilting the phone to control the umbrella!! 
+
+Can't get far? Maybe buy some upgrades!
 
 ![unnamed](https://user-images.githubusercontent.com/35507715/99890837-f3e62080-2c6b-11eb-878a-ded73b6e5955.png)
 
@@ -15,4 +17,6 @@ Cant get far? Maybe buy some upgrades!
 
 Code is messy due to laziness!
 
-EDIT: Since i have stopped supporting this project it was removed from google play
+EDIT: 
+
+Since I have stopped supporting this project it was removed from google play
