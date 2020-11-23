@@ -12,8 +12,6 @@ Can't get far? Maybe buy some upgrades!
 ![screen-5](https://user-images.githubusercontent.com/35507715/99890836-f34d8a00-2c6b-11eb-9862-cc6da5117081.jpg)
 
 
-Code is messy due to laziness!
-
 EDIT: 
 
 Since I have stopped supporting this project it was removed from google play
